@@ -1,0 +1,8 @@
+${PODS_ROOT}/Target Support Files/Pods-HealthKitAppUnderMyDev-HealthKitAppUnderMyDevUITests/Pods-HealthKitAppUnderMyDev-HealthKitAppUnderMyDevUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ANActivityIndicator/ANActivityIndicator.framework
+${BUILT_PRODUCTS_DIR}/ActiveLabel/ActiveLabel.framework
+${BUILT_PRODUCTS_DIR}/HealthKitReporter/HealthKitReporter.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework
+${BUILT_PRODUCTS_DIR}/JXPageControl/JXPageControl.framework
+${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework
+${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework

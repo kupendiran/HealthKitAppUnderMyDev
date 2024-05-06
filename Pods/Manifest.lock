@@ -1,0 +1,48 @@
+PODS:
+  - ActiveLabel (1.1.0)
+  - ANActivityIndicator (1.2.0)
+  - HealthKitReporter (3.0.0)
+  - IQKeyboardManagerSwift (6.2.1)
+  - JXPageControl (0.1.5):
+    - JXPageControl/Common (= 0.1.5)
+    - JXPageControl/Jump (= 0.1.5)
+    - JXPageControl/Transform (= 0.1.5)
+  - JXPageControl/Common (0.1.5)
+  - JXPageControl/Jump (0.1.5):
+    - JXPageControl/Common
+  - JXPageControl/Transform (0.1.5):
+    - JXPageControl/Common
+  - Kingfisher (7.4.1)
+  - MBProgressHUD (1.1.0)
+
+DEPENDENCIES:
+  - ActiveLabel (~> 1.1.0)
+  - ANActivityIndicator (~> 1.2.0)
+  - HealthKitReporter
+  - IQKeyboardManagerSwift (~> 6.2.1)
+  - JXPageControl (~> 0.1.5)
+  - Kingfisher (~> 7.4.1)
+  - MBProgressHUD (~> 1.1.0)
+
+SPEC REPOS:
+  trunk:
+    - ActiveLabel
+    - ANActivityIndicator
+    - HealthKitReporter
+    - IQKeyboardManagerSwift
+    - JXPageControl
+    - Kingfisher
+    - MBProgressHUD
+
+SPEC CHECKSUMS:
+  ActiveLabel: 5e3f4de79a1952d4604b845a0610d4776e4b82b3
+  ANActivityIndicator: 44a996931d0c554cf157b31056603b23bbdbe76a
+  HealthKitReporter: 3511fd29070917a255fa60df7f415c2007f74b73
+  IQKeyboardManagerSwift: 0f0ae8935360b4003e6ea1ac7c19898f01e2f7c7
+  JXPageControl: e9487b39e2e58fc17790833214f3b8e935bef98b
+  Kingfisher: cd762a593a61b2fbecf7645c00f9a801a3ebfc9c
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+
+PODFILE CHECKSUM: 537299d0e17916aa0b302532f5b5c54cb19d9839
+
+COCOAPODS: 1.12.1

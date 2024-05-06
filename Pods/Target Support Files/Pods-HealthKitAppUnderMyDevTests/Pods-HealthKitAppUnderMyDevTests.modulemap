@@ -1,0 +1,6 @@
+framework module Pods_HealthKitAppUnderMyDevTests {
+  umbrella header "Pods-HealthKitAppUnderMyDevTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
